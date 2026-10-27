@@ -1,20 +1,20 @@
 Open Financial Exchange (OFX) Tools for Python
 ==============================================
 
-.. image:: https://img.shields.io/github/actions/workflow/status/csingley/ofxtools/commit-ofxtools.yml?label=CI%20tests&style=flat&labelColor=000000
+.. image:: https://github.com/csingley/ofxtools/actions/workflows/commit-ofxtools.yml/badge.svg
     :alt: CI tests status
     :target: https://github.com/csingley/ofxtools/actions/workflows/commit-ofxtools.yml
 
-.. image:: https://img.shields.io/coverallsCoverage/github/csingley/ofxtools?branch=master&style=flat&labelColor=000000
+.. image:: https://coveralls.io/repos/github/csingley/ofxtools/badge.svg?branch=master
     :target: https://coveralls.io/github/csingley/ofxtools?branch=master
 
-.. image:: https://img.shields.io/badge/dependencies-None-green.svg?style=flat&labelColor=000000&color=66023C
+.. image:: https://img.shields.io/badge/dependencies-None-green.svg
     :target: https://github.com/csingley/ofxtools/blob/master/pyproject.toml
 
-.. image:: https://img.shields.io/pypi/v/ofxtools?style=flat&labelColor=000000&color=66023C
+.. image:: https://badge.fury.io/py/ofxtools.svg
     :target: https://badge.fury.io/py/ofxtools
 
-.. image:: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fstatic.pepy.tech%2Fbadge%2Fofxtools&query=normalize-space%28%28%2F%2F%2A%5Blocal-name%28%29%3D%27text%27%5D%29%5Blast%28%29%5D%29&label=downloads&style=flat&labelColor=000000&color=66023C
+.. image:: https://static.pepy.tech/badge/ofxtools
     :alt: Total PyPI downloads
     :target: https://pepy.tech/projects/ofxtools
 
